@@ -8,7 +8,7 @@ Independent Contractor, Federal Correctional Institution Butner Medium
 
 *March 2009 - Present*
 
-World Leader in Prison Cigarette Options Trading Vpolume, Technical Advisor on Several Emmy-Winning Televised Biographies.
+World Leader in Prison Cigarette Options Trading Volume, Technical Advisor on Several Emmy-Winning Televised Biographies.
 
 President, Bernard L. Madoff Investment Securities
 **************************************************

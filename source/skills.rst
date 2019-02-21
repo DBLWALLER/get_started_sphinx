@@ -7,12 +7,12 @@ Key Skills Experience
    :widths: 50 50 50
    :header-rows: 1
 
-   * - Skill Type 1
-     - Skill Type 2
-     - Skill Type 3
-   * - Skill
-     - Skill
-     - Skill
-   * - Skill
-     - Skill
-     - Skill
+   * - Quantitative Finance
+     - Sales
+     - Financial Advising
+   * - Accounting
+     - Derivatives Analysis
+     - Long Range Forecasting
+   * - Philanthropies
+     - Educational Institutions
+     - Family Trusts

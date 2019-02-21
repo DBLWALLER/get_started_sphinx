@@ -3,20 +3,15 @@
 Education 
 ############
 
-College/University
+Hofstra University
 **********************
 
-*Degree*
+*B.A. Political Science, 1960*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+Political Science, Literature, Accounting
 
 
-College/University
-**********************
 
-*Degree*
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
 
 
 

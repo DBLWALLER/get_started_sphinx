@@ -6,8 +6,8 @@ Sample Resume with Sphinx
          :name: my picture
          :width: 30%
 
-D.L. Waller
-Student, Tech Tools
+Bernard Madoff Sample Resume
+Exercise, Tech Tools
 
 
 |Contents|
